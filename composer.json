@@ -1,0 +1,18 @@
+{
+  "name": "sayla/url-helper",
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "sayla/data-helper": "^1"
+  },
+  "autoload": {
+    "files": [
+      "helpers.php"
+    ],
+    "psr-4": {
+      "Sayla\\Helper\\Url\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
