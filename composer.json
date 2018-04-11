@@ -13,6 +13,5 @@
     "psr-4": {
       "Sayla\\Helper\\Url\\": "src"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
